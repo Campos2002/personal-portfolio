@@ -32,21 +32,45 @@
     text-align: center;
 }
 
-.service__list {
+.services__list {
     padding: 2rem;
 }
 
-.service__list li {
+.services__list li {
     display: flex;
     gap: 1rem;
     margin-bottom: 0.8rem;
 }
 
-.service__list-icon {
+.services__list-icon {
     color: var(--color-primary);
     margin-top: 5px;
 }
 
-.service__list p {
+.services__list p {
     font-size: 0.9rem;
+}
+
+/* MEDIA QUERIES ------------------------- */
+
+/* Medium Devices */
+
+@media screen and (max-width: 1024px) {
+    .services__container {
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+    }
+
+    .services {
+        height: auto;
+    }
+}
+
+/* Small Devices */
+
+@media screen and (max-width: 600px) {
+    .services__container {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
 }
