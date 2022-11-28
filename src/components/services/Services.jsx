@@ -11,32 +11,32 @@ const Services = () => {
         {/* 1 Services */}
         <article className="services">
           <div className="services__head">
-            <h3>UI/UX Designe</h3>
+            <h3>UI/UX Design</h3>
           </div>
           <ul className='services__list'>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
           </ul>
         </article>
@@ -48,31 +48,31 @@ const Services = () => {
           <ul className='services__list'>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
           </ul>
         </article>
@@ -84,27 +84,27 @@ const Services = () => {
           <ul className='services__list'>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a leo in justo feugiat gravida.</p>
             </li>
           </ul>
         </article>
