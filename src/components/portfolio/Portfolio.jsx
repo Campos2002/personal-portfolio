@@ -44,6 +44,13 @@ const data = [
     github: 'https://github.com/Campos2002/Clone-Spotify-Landing-Page',
     demo: 'https://campos2002.github.io/Clone-Spotify-Landing-Page/'
   },
+  {
+    id: 6,
+    image: IMG6,
+    title: 'Museum Website',
+    github: 'https://github.com/Campos2002/Museum-Website-Project',
+    demo: 'https://campos2002.github.io/Museum-Website-Project/'
+  },
 ];
 
 const Portfolio = () => {
