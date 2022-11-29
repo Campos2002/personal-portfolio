@@ -17,6 +17,11 @@
     padding: 2rem;
     border-radius: 2rem;
     user-select: none;
+    border: 1px solid transparent;
+}
+
+.testimonial:hover {
+    border: 1px solid var(--color-primary);
 }
 
 .client__review {
@@ -25,17 +30,6 @@
     display: block;
     width: 80%;
     margin: 0.8rem auto 0;
-}
-
-.testimonial {
-    margin-top: 2.5rem;
-    border: 1px transparent;
-}
-
-.testimonial:hover {
-    border: 1px solid var(--color-primary-variant);
-    background: transparent;
-    transition: var(--transition);
 }
 
 /* Media Queries ---------------------------- */

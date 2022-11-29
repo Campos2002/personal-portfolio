@@ -5,25 +5,21 @@ import AVTR4 from '../../assets/avatar4.jpg'
 
 const data = [
   {
-    id: 1,
     image: AVTR1,
     clientName: 'Ernest Achivier',
     clientReview: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at purus diam. Mauris eu metus vestibulum, ultrices nisl et, lobortis libero. Nullam sit amet feugiat nulla. Sed condimentum vitae elit in tristique. Nulla laoreet orci sit amet elit pharetra, sed porta tellus volutpat. Quisque tincidunt erat at nibh ornare, ut tristique lacus placerat. Proin nec nunc vel metus facilisis lacinia. Phasellus convallis accumsan nunc, sit amet commodo neque!',
   },
   {
-    id: 2,
     image: AVTR2,
     clientName: 'Ernest Achivier',
     clientReview: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at purus diam. Mauris eu metus vestibulum, ultrices nisl et, lobortis libero. Nullam sit amet feugiat nulla. Sed condimentum vitae elit in tristique. Nulla laoreet orci sit amet elit pharetra, sed porta tellus volutpat. Quisque tincidunt erat at nibh ornare, ut tristique lacus placerat. Proin nec nunc vel metus facilisis lacinia. Phasellus convallis accumsan nunc, sit amet commodo neque!',
   },
   {
-    id: 3,
     image: AVTR3,
     clientName: 'Ernest Achivier',
     clientReview: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at purus diam. Mauris eu metus vestibulum, ultrices nisl et, lobortis libero. Nullam sit amet feugiat nulla. Sed condimentum vitae elit in tristique. Nulla laoreet orci sit amet elit pharetra, sed porta tellus volutpat. Quisque tincidunt erat at nibh ornare, ut tristique lacus placerat. Proin nec nunc vel metus facilisis lacinia. Phasellus convallis accumsan nunc, sit amet commodo neque!',
   },
   {
-    id: 4,
     image: AVTR4,
     clientName: 'Ernest Achivier',
     clientReview: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at purus diam. Mauris eu metus vestibulum, ultrices nisl et, lobortis libero. Nullam sit amet feugiat nulla. Sed condimentum vitae elit in tristique. Nulla laoreet orci sit amet elit pharetra, sed porta tellus volutpat. Quisque tincidunt erat at nibh ornare, ut tristique lacus placerat. Proin nec nunc vel metus facilisis lacinia. Phasellus convallis accumsan nunc, sit amet commodo neque!',
