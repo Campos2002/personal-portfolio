@@ -33,7 +33,7 @@ const contact = () => {
           </article>
         </div>
         {/* Form */}
-        <form action="">
+        <form action=''>
           <input type="text" name='name' placeholder='Yor Full Name' required />
           <input type="email" name='email' placeholder='Your E-mail' required />
           <textarea name="message" rows="7" placeholder='Your Message' required></textarea>
