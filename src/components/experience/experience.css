@@ -40,6 +40,19 @@
     color: var(--color-primary);
 }
 
+.experience__content__backend {
+    place-items: center;
+    text-align: center;
+    margin-top: 5.5rem;
+    color: var(--color-white);
+}
+
+.experience__details-icon-progress {
+    margin-top: 6px;
+    color: var(--color-primary);
+    font-size: 2rem;
+}
+
 /* Media Queries ---------------------------- */
 
 /* Medium Devices */
@@ -58,6 +71,10 @@
     .experience__content {
         padding: 1rem;
     }
+
+    .experience__content__backend {
+        margin-top: 2rem;
+    }
 }
 
 /* Small Devices */
@@ -70,5 +87,9 @@
     .experience__container>div {
         width: 100%;
         padding: 2rem 1rem;
+    }
+
+    .experience__content__backend {
+        margin-top: 2rem;
     }
 }

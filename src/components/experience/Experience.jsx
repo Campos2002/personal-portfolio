@@ -1,6 +1,7 @@
 import React from 'react'
 import './experience.css'
 import { BsPatchCheckFill } from 'react-icons/bs'
+import { GiProgression } from 'react-icons/gi'
 
 const Experience = () => {
   return (
@@ -11,7 +12,7 @@ const Experience = () => {
 
       {/* Inicio do Frontend */}
       <div className="container experience__container">
-        <div className="experience__frontende">
+        <div>
           <h3>Frontend Development</h3>
           <div className="experience__content">
             <artcile className='experience__details'>
@@ -60,45 +61,14 @@ const Experience = () => {
         </div>
 
         {/* Início do Backend */}
-        <div className="experience__backende">
+        <div>
           <h3>Backend Development</h3>
-          <div className="experience__content">
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>Node JS</h4>
-                <small className='text-light'>Basic</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>MongoDB</h4>
-                <small className='text-light'>Basic</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>PHP</h4>
-                <small className='text-light'>Basic</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>MySQL</h4>
-                <small className='text-light'>Basic</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>Python</h4>
-                <small className='text-light'>Basic</small>
-              </div>
-            </article>
-          </div>
+          <article className="experience__content__backend">
+            <GiProgression className='experience__details-icon-progress' />
+            <div>
+              <h4>In progress</h4>
+            </div>
+          </article>
         </div>
 
       </div>
