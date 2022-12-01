@@ -4,7 +4,6 @@ import ME from '../../assets/me3.jpg'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
-import { BiSmile } from 'react-icons/bi'
 
 const about = () => {
   return (
@@ -12,7 +11,7 @@ const about = () => {
     <section id='about'>
 
       <h5>Get To know</h5>
-      <h2>About Me</h2>
+      <h2>About</h2>
 
       <div className="container about__container">
 
@@ -47,7 +46,7 @@ const about = () => {
           </div>
 
           <p>
-            Olá, recrutador! Tudo bem? Me chamo Guilherme Campos, sou graduando em Ciência da Computação e estudante de Front-end. Essa página foi criada por mim com ajuda de alguns tutoriais e muito estudo por conta própria. Espero que através dela consiga mostrar tudo que venho aprendendo. Lógico, ainda tenho muito à aprender, mas sou uma pessoa super disposta a ajudar e adquirir conhecimento. Se você veio à mim com o intuito de me contratar para algum serviço, sinta-se a vontade de usar a seção contato da maneira que desejar, todas as opções são funcionais. Espero receber seu contato o mais breve possível! Até! <BiSmile className='about__icon__text' />
+            Olá, recrutador! Tudo bem? Me chamo Guilherme Campos, sou graduando em Ciência da Computação e estudante de Front-end. Este portfólio possui o intuito de mostrar tudo que venho aprendendo ao longo de 1 ano de estudos. A página é construida em ReactJS, HTML e CSS com renderização dinâmica de componentes em algumas seções. A responsividade funciona por meio de Media Queries. Também foram utilizadas bibliotecas externas como a React Icons para ícones, Email JS para serviço de e-mail e Swiper para efeito carrousel. Todo projeto foi versionado através da ferramenta GIT e encontra-se em repositório remoto no GitHub. Este é um projeto em andamento que estará em contante mudaça, então sinta-se a vontade para revisita-lo de tempos em tempos. Se você veio à mim com o intuito de me contratar para algum serviço, sinta-se a vontade de usar a seção contato da maneira que desejar, todas as opções são funcionais. Espero receber seu contato o mais breve possível! Até!
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

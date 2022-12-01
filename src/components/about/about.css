@@ -66,10 +66,11 @@
 }
 
 .about__content p {
+    font-size: 0.9rem;
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
     text-align: justify;
-    line-height: 1.7rem;
+    line-height: 1.5rem;
 }
 
 /* MEDIA QUERIES ------------------------- */
