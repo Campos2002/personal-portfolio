@@ -13,7 +13,7 @@ const Experience = () => {
       {/* Inicio do Frontend */}
       <div className="container experience__container">
         <div>
-          <h3>Frontend Development</h3>
+          <h3>Front-end Development</h3>
           <div className="experience__content">
             <artcile className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
