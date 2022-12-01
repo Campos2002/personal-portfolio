@@ -50,6 +50,12 @@
     margin-bottom: 1rem;
 }
 
+.about__icon__text {
+    color: var(--color-primary);
+    margin-top: 5px;
+    font-size: 1.2rem
+}
+
 .about__card h5 {
     font-size: 0.95rem;
 }
@@ -62,6 +68,8 @@
 .about__content p {
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
+    text-align: justify;
+    line-height: 1.7rem;
 }
 
 /* MEDIA QUERIES ------------------------- */

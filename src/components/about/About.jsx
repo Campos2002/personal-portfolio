@@ -4,6 +4,7 @@ import ME from '../../assets/me3.jpg'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
+import { BiSmile } from 'react-icons/bi'
 
 const about = () => {
   return (
@@ -28,25 +29,25 @@ const about = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>1+ Year Working</small>
+              <small>1+ Studying</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>Venha ser o primeiro</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>15+ Completed</small>
             </article>
 
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fermentum quam sed venenatis tincidunt. Mauris posuere metus justo, eu feugiat urna hendrerit non. Integer sit amet fringilla dui. Proin at facilisis leo, vel lobortis lacus. Integer non viverra est.
+            Olá, recrutador! Tudo bem? Me chamo Guilherme Campos, sou graduando em Ciência da Computação e estudante de Front-end. Essa página foi criada por mim com ajuda de alguns tutoriais e muito estudo por conta própria. Espero que através dela consiga mostrar tudo que venho aprendendo. Lógico, ainda tenho muito à aprender, mas sou uma pessoa super disposta a ajudar e adquirir conhecimento. Se você veio à mim com o intuito de me contratar para algum serviço, sinta-se a vontade de usar a seção contato da maneira que desejar, todas as opções são funcionais. Espero receber seu contato o mais breve possível! Até! <BiSmile className='about__icon__text' />
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
