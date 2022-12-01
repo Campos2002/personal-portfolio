@@ -1,9 +1,9 @@
-import IMG1 from '../../assets/portfolio1.png'
-import IMG2 from '../../assets/portfolio2.png'
-import IMG3 from '../../assets/portfolio3.png'
-import IMG4 from '../../assets/portfolio4.png'
-import IMG5 from '../../assets/portfolio5_2.png'
-import IMG6 from '../../assets/portfolio6.png'
+import IMG1 from '../../assets/guilherme/portfolio1.png'
+import IMG2 from '../../assets/guilherme/portfolio2.png'
+import IMG3 from '../../assets/guilherme/portfolio3.png'
+import IMG4 from '../../assets/guilherme/portfolio4.png'
+import IMG5 from '../../assets/guilherme/portfolio5.png'
+import IMG6 from '../../assets/guilherme/portfolio6.png'
 
 const data = [
   {
