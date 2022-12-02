@@ -7,7 +7,7 @@ const Experience = () => {
   return (
     <section id='experience'>
 
-      <h5>Experience</h5>
+      <h5>Technologies</h5>
       <h2>Experience</h2>
 
       {/* Inicio do Frontend */}
