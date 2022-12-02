@@ -9,7 +9,7 @@
     overflow: hidden;
     border-radius: 50%;
     margin: 0 auto 1rem;
-    border: 0.4rem solid var(--color-primary-variant);
+    border: 0.4rem solid var(--color-primary);
 }
 
 .testimonial {
@@ -22,7 +22,7 @@
 }
 
 .testimonial:hover {
-    border: 1px solid var(--color-primary);
+    border: 1px solid var(--color-primary-variant);
 }
 
 .client__review {

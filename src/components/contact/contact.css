@@ -40,7 +40,7 @@
 .form__container button {
     width: max-content;
     display: inline-block;
-    color: var(--color-bg);
+    color: var(--color-white);
     padding: 0.75rem 1.2rem;
     border-radius: 0.4rem;
     cursor: pointer;
