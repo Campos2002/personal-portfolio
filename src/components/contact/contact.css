@@ -14,7 +14,7 @@
 .contact__option {
     background: var(--color-bg-variant);
     padding: 1.2rem;
-    border-radius: 1.2rem;
+    border-radius: 0.9rem;
     text-align: center;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -36,24 +36,6 @@
     display: inline-block;
     font-size: 0.8rem;
 }
-
-/* .form__container button {
-    width: max-content;
-    display: inline-block;
-    color: var(--color-white);
-    padding: 0.75rem 1.2rem;
-    border-radius: 0.4rem;
-    cursor: pointer;
-    border: 2px solid transparent;
-    transition: var(--transition);
-    background: var(--color-primary)
-}
-
-.form__container button:hover {
-    border: 2px solid var(--color-primary-variant);
-    background: transparent;
-    color: var(--color-white);
-} */
 
 /* FORM -------------------------------------- */
 
