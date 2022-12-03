@@ -13,8 +13,8 @@ import 'swiper/css/pagination';
 const Testimonials = () => {
   return (
     <section id='testimonials'>
-      <h5>Testimonials</h5>
-      <h2>Testimonials</h2>
+      <h5>O que falam sobre mim</h5>
+      <h2>Depoimentos</h2>
 
       <Swiper className="container testimonials__container"
         modules={[Pagination]}

@@ -7,8 +7,8 @@ const Experience = () => {
   return (
     <section id='experience'>
 
-      <h5>Technologies</h5>
-      <h2>Experience</h2>
+      <h5>Tecnologias</h5>
+      <h2>Experiência</h2>
 
       {/* Inicio do Frontend */}
       <div className="container experience__container">
@@ -19,35 +19,35 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Experiente</small>
               </div>
             </artcile>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Intermidiate</small>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>React</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Git</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
           </div>
@@ -59,7 +59,7 @@ const Experience = () => {
           <article className="experience__content__backend">
             <GiProgression className='experience__details-icon-progress' />
             <div>
-              <h4>In progress</h4>
+              <h4>Em desenvolvimento</h4>
             </div>
           </article>
         </div>

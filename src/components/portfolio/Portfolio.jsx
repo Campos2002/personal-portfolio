@@ -5,8 +5,8 @@ import data from '../portfolio/data'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Works</h5>
-      <h2>Portfolio</h2>
+      <h5>Meus projetos recentes</h5>
+      <h2>Portfólio</h2>
 
       <div className="container portfolio__container">
         {
