@@ -85,4 +85,9 @@ header {
     .scroll__down {
         display: none;
     }
+
+    .cta>a {
+        font-size: 11px;
+        padding: 10px;
+    }
 }
