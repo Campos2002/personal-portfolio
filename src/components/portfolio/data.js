@@ -6,6 +6,9 @@ import IMG5 from '../../assets/guilherme/portfolio5.png'
 import IMG6 from '../../assets/guilherme/portfolio6.png'
 import IMG7 from '../../assets/guilherme/portfolio7.jpg'
 import IMG8 from '../../assets/guilherme/portfolio8.jpg'
+import IMG9 from '../../assets/guilherme/portfolio9.jpg'
+import IMG10 from '../../assets/guilherme/portfolio10.jpg'
+
 
 const data = [
   {
@@ -17,14 +20,14 @@ const data = [
   },
   {
     image: IMG2,
-    title: 'BMI Calculator',
+    title: 'Cálculo de IMC',
     github: 'https://github.com/Campos2002/calc_de_IMC',
     demo: 'https://campos2002.github.io/calc_de_IMC/',
     section: 'JavaScript'
   },
   {
     image: IMG3,
-    title: 'Bank Landing Page',
+    title: 'Banco Landing Page',
     github: 'https://github.com/Campos2002/Virtual-Bank-Landing-Page',
     demo: 'https://campos2002.github.io/Virtual-Bank-Landing-Page/',
     section: 'Bootstrap'
@@ -45,7 +48,7 @@ const data = [
   },
   {
     image: IMG6,
-    title: 'Museum Website',
+    title: 'Museu Website',
     github: 'https://github.com/Campos2002/Museum-Website-Project',
     demo: 'https://campos2002.github.io/Museum-Website-Project/',
     section: 'HTML/CSS'
@@ -59,10 +62,24 @@ const data = [
   },
   {
     image: IMG8,
-    title: 'Lista de Tarefas',
+    title: 'Timer',
     github: 'https://github.com/Campos2002/timer',
     demo: 'https://campos2002.github.io/timer/',
     section: 'JavaScript'
+  },
+  {
+    image: IMG9,
+    title: 'Trono de Daomé',
+    github: 'https://github.com/Campos2002/resgate_do_trono_de_daome',
+    demo: 'https://campos2002.github.io/resgate_do_trono_de_daome/',
+    section: 'HTML/CSS'
+  },
+  {
+    image: IMG10,
+    title: 'Pet Sitter Portfólio',
+    github: 'https://github.com/Campos2002/portfolio_pet_sitter',
+    demo: 'https://campos2002.github.io/portfolio_pet_sitter/',
+    section: 'React.js'
   },
 ];
 
