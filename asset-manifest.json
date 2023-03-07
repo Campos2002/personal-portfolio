@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.5ec20f34.css",
-    "main.js": "/personal-portfolio/static/js/main.6114796a.js",
-    "static/media/Luiz-Guilherme-cv.pdf": "/personal-portfolio/static/media/Luiz-Guilherme-cv.0ecb0d6920a8f02296cd.pdf",
+    "main.css": "/personal-portfolio/static/css/main.7dbf8cc3.css",
+    "main.js": "/personal-portfolio/static/js/main.79100125.js",
+    "static/media/me3.png": "/personal-portfolio/static/media/me3.6d03674e0e787f7fc9e0.png",
+    "static/media/luiz_guilherme_cv.pdf": "/personal-portfolio/static/media/luiz_guilherme_cv.46dbc0bde2fccabf35f6.pdf",
     "static/media/me3.jpg": "/personal-portfolio/static/media/me3.fa18570c6dc30542b9a6.jpg",
     "static/media/portfolio4.png": "/personal-portfolio/static/media/portfolio4.a41c2df1b6194c785fc9.png",
     "static/media/portfolio5.png": "/personal-portfolio/static/media/portfolio5.32f7dc95b0939fa92bd9.png",
-    "static/media/me2.png": "/personal-portfolio/static/media/me2.dfc9c2e3102f53322b42.png",
     "static/media/portfolio6.png": "/personal-portfolio/static/media/portfolio6.7dcaaaffb0ab6c2de1a8.png",
     "static/media/portfolio3.png": "/personal-portfolio/static/media/portfolio3.120992af36273998793f.png",
     "static/media/portfolio2.png": "/personal-portfolio/static/media/portfolio2.0ecd14bb5d4d0c10aaea.png",
     "static/media/portfolio1.png": "/personal-portfolio/static/media/portfolio1.8097ffb4081624dc421b.png",
+    "static/media/portfolio8.jpg": "/personal-portfolio/static/media/portfolio8.d9512fd89c18e28c2afd.jpg",
+    "static/media/portfolio7.jpg": "/personal-portfolio/static/media/portfolio7.8a4ce2af4f3629e53e47.jpg",
     "index.html": "/personal-portfolio/index.html",
-    "main.5ec20f34.css.map": "/personal-portfolio/static/css/main.5ec20f34.css.map",
-    "main.6114796a.js.map": "/personal-portfolio/static/js/main.6114796a.js.map"
+    "main.7dbf8cc3.css.map": "/personal-portfolio/static/css/main.7dbf8cc3.css.map",
+    "main.79100125.js.map": "/personal-portfolio/static/js/main.79100125.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ec20f34.css",
-    "static/js/main.6114796a.js"
+    "static/css/main.7dbf8cc3.css",
+    "static/js/main.79100125.js"
   ]
 }
