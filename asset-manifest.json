@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.7dbf8cc3.css",
-    "main.js": "/personal-portfolio/static/js/main.79100125.js",
+    "main.js": "/personal-portfolio/static/js/main.fda1d01b.js",
     "static/media/me3.png": "/personal-portfolio/static/media/me3.6d03674e0e787f7fc9e0.png",
     "static/media/luiz_guilherme_cv.pdf": "/personal-portfolio/static/media/luiz_guilherme_cv.46dbc0bde2fccabf35f6.pdf",
     "static/media/me3.jpg": "/personal-portfolio/static/media/me3.fa18570c6dc30542b9a6.jpg",
@@ -10,15 +10,17 @@
     "static/media/portfolio6.png": "/personal-portfolio/static/media/portfolio6.7dcaaaffb0ab6c2de1a8.png",
     "static/media/portfolio3.png": "/personal-portfolio/static/media/portfolio3.120992af36273998793f.png",
     "static/media/portfolio2.png": "/personal-portfolio/static/media/portfolio2.0ecd14bb5d4d0c10aaea.png",
+    "static/media/portfolio9.jpg": "/personal-portfolio/static/media/portfolio9.cf71346ba8956f6d9e95.jpg",
     "static/media/portfolio1.png": "/personal-portfolio/static/media/portfolio1.8097ffb4081624dc421b.png",
+    "static/media/portfolio10.jpg": "/personal-portfolio/static/media/portfolio10.e5af3eb8fe38dbcbcb3e.jpg",
     "static/media/portfolio8.jpg": "/personal-portfolio/static/media/portfolio8.d9512fd89c18e28c2afd.jpg",
     "static/media/portfolio7.jpg": "/personal-portfolio/static/media/portfolio7.8a4ce2af4f3629e53e47.jpg",
     "index.html": "/personal-portfolio/index.html",
     "main.7dbf8cc3.css.map": "/personal-portfolio/static/css/main.7dbf8cc3.css.map",
-    "main.79100125.js.map": "/personal-portfolio/static/js/main.79100125.js.map"
+    "main.fda1d01b.js.map": "/personal-portfolio/static/js/main.fda1d01b.js.map"
   },
   "entrypoints": [
     "static/css/main.7dbf8cc3.css",
-    "static/js/main.79100125.js"
+    "static/js/main.fda1d01b.js"
   ]
 }
