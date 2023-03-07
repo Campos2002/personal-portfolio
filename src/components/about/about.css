@@ -41,7 +41,7 @@
 
 .about__card:hover {
     background: transparent;
-    border-color: var(--color-primary-variant);
+    border-color: var(--color-primary);
 }
 
 .about__icon {

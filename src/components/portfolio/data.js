@@ -1,13 +1,13 @@
-import IMG1 from '../../assets/guilherme/portfolio1.png'
-import IMG2 from '../../assets/guilherme/portfolio2.png'
-import IMG3 from '../../assets/guilherme/portfolio3.png'
-import IMG4 from '../../assets/guilherme/portfolio4.png'
-import IMG5 from '../../assets/guilherme/portfolio5.png'
-import IMG6 from '../../assets/guilherme/portfolio6.png'
-import IMG7 from '../../assets/guilherme/portfolio7.jpg'
-import IMG8 from '../../assets/guilherme/portfolio8.jpg'
-import IMG9 from '../../assets/guilherme/portfolio9.jpg'
-import IMG10 from '../../assets/guilherme/portfolio10.jpg'
+import IMG1 from '../../assets/portfolio/portfolio1.png'
+import IMG2 from '../../assets/portfolio/portfolio2.png'
+import IMG3 from '../../assets/portfolio/portfolio3.png'
+import IMG4 from '../../assets/portfolio/portfolio4.png'
+import IMG5 from '../../assets/portfolio/portfolio5.png'
+import IMG6 from '../../assets/portfolio/portfolio6.png'
+import IMG7 from '../../assets/portfolio/portfolio7.jpg'
+import IMG8 from '../../assets/portfolio/portfolio8.jpg'
+import IMG9 from '../../assets/portfolio/portfolio9.jpg'
+import IMG10 from '../../assets/portfolio/portfolio10.jpg'
 
 
 const data = [
