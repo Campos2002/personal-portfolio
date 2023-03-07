@@ -1,13 +1,18 @@
+p {
+    margin-top: 13px;
+    font-size: 14px;
+}
+
 .portfolio__container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 2.5rem;
 }
 
 .portfolio__item {
     background: var(--color-bg-variant);
     padding: 1.3rem;
-    border-radius: 1.5rem;
+    border-radius: 1.3rem;
     border: 1px solid transparent;
     transition: var(--transition);
 }
@@ -18,7 +23,7 @@
 }
 
 .portfolio__item-image {
-    border-radius: 1.5rem;
+    border-radius: 1.1rem;
     overflow: hidden;
 }
 

@@ -5,12 +5,12 @@ import data from '../portfolio/data'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>Meus projetos recentes</h5>
-      <h2>Portfólio</h2>
+      <h5>Portfólio</h5>
+      <h2>Principais Projetos</h2>
 
       <div className="container portfolio__container">
         {
-          data.map(({ image, title, github, demo }, index) => (
+          data.map(({ image, title, github, demo, section }, index) => (
             <article key={index} className='portfolio__item'>
               <div className="portfolio__item-image">
                 <img src={image} alt={title} />
@@ -19,6 +19,7 @@ const Portfolio = () => {
               <div className="portfolio__item-cta">
                 <a href={github} className='btn' target='_blank' rel='noreferrer'>GitHub</a>
                 <a href={demo} className='btn btn-primary' target='_blank' rel='noreferrer'>Demo</a>
+                <p>{section}</p>
               </div>
             </article>
           ))
