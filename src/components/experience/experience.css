@@ -1,7 +1,7 @@
 .experience__container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .experience__container>div {
@@ -33,6 +33,7 @@
 .experience__details {
     display: flex;
     gap: 1rem;
+    margin: 0 45px;
 }
 
 .experience__details-icon {
@@ -80,8 +81,9 @@
 /* Small Devices */
 
 @media screen and (max-width: 600px) {
-    .experience__container {
-        gap: 1rem;
+    .experience__content {
+        display: grid;
+        grid-template-columns: 1fr;
     }
 
     .experience__container>div {

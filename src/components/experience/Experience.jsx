@@ -1,7 +1,6 @@
 import React from 'react'
 import './experience.css'
 import { BsPatchCheckFill } from 'react-icons/bs'
-import { GiProgression } from 'react-icons/gi'
 
 const Experience = () => {
   return (
@@ -58,17 +57,6 @@ const Experience = () => {
               </div>
             </article>
           </div>
-        </div>
-
-        {/* Início do Backend */}
-        <div>
-          <h3>Backend Development</h3>
-          <article className="experience__content__backend">
-            <GiProgression className='experience__details-icon-progress' />
-            <div>
-              <h4>Em desenvolvimento</h4>
-            </div>
-          </article>
         </div>
 
       </div>
